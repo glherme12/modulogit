@@ -1,0 +1,1 @@
+alguma função no js
